@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LaPhuongNam",
+    "\\LaPhuongNam\\Migrations",
+    "\\LaPhuongNam\\Models",
+    "\\LaPhuongNam\\Properties",
+    "\\LaPhuongNam\\Views",
+    "\\LaPhuongNam\\Views\\Home",
+    "\\LaPhuongNam\\Views\\LopHoc",
+    "\\LaPhuongNam\\Views\\Shared",
+    "\\LaPhuongNam\\Views\\SinhVien"
+  ],
+  "SelectedNode": "\\LaPhuongNam\\Models\\SinhVien.cs",
+  "PreviewInSolutionExplorer": false
+}
